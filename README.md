@@ -9,3 +9,6 @@ it is written in C
 2. run `make`
 3. run the program with `./cSweeper`
 
+### Gameplay
+you play by inputing the coordinates of the cell you want to reveal 
+
